@@ -1,0 +1,18 @@
+# C++ Compiled Files
+*.exe
+*.out
+*.o
+*.obj
+
+# Visual Studio Junk
+.vs/
+x64/
+Debug/
+Release/
+*.sln
+*.vcxproj
+*.vcxproj.user
+
+# OS Junk
+.DS_Store
+Thumbs.db
