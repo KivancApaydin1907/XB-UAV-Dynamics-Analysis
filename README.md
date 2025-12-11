@@ -113,9 +113,6 @@ This tool is standalone and includes embedded aerodynamic data.
 # Compile
 g++ Trim_Analysis.cpp -o XB_Analyzer
 ./XB_Analyzer
-
-# Run
-./XB_Analyzer
 ```
 
 ## 📂 Project Structure
