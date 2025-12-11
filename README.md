@@ -111,7 +111,8 @@ This tool is standalone and includes embedded aerodynamic data.
 
 ```bash
 # Compile
-g++ Stability_Analyzer.cpp -o XB_Analyzer
+g++ Trim_Analysis.cpp -o XB_Analyzer
+./XB_Analyzer
 
 # Run
 ./XB_Analyzer
